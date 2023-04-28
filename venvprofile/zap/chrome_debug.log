@@ -1,0 +1,12 @@
+[15292:9400:0421/013508.586:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.121 (not a warning)
+[15292:9400:0421/013508.640:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[15292:9400:0421/013508.641:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[15292:9400:0421/013509.702:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.93f2846fd0de96e2ec08.js (7)
+[15292:9400:0421/013513.195:ERROR:device_event_log_impl.cc(222)] [01:35:13.196] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[15292:9400:0421/013513.201:ERROR:device_event_log_impl.cc(222)] [01:35:13.202] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: Um dispositivo conectado ao sistema não está funcionando. (0x1F)
+[15292:9400:0421/013524.545:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:265059
+[15292:9400:0421/013525.440:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:5088
+[15292:9400:0421/013526.053:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:9419
+[15292:9400:0421/013526.954:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:45148
+[15292:9400:0421/013527.165:WARNING:controller_impl.cc(1191)] Background download complete, client: 6, completion type: 0, file size:30035311
+[15292:9400:0421/013805.487:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
